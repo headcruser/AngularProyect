@@ -1,3 +1,2 @@
 # ProyectDB
-Proyect of Database
-This Repository is for disign of database whith the bitch Verde
+Proyecto simple de base de datos para probar otra forma de realizar páginas
